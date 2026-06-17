@@ -70,11 +70,5 @@ Nandha College of Technology, Erode
 
 Feel free to connect with me for collaborations, internships, hackathons, or project discussions.
 
-## 🔗 Links
-
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
-
----
 
 ⭐ If you like this portfolio, don't forget to star the repository!
