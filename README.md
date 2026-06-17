@@ -1,20 +1,80 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 🌐 Kangeshwaran Portfolio
 
-# Run and deploy your AI Studio app
+A modern and responsive personal portfolio website showcasing my skills, projects, achievements, certifications, and technical expertise as a Computer Science Engineering student.
 
-This contains everything you need to run your app locally.
+## 🚀 About
 
-View your app in AI Studio: https://ai.studio/apps/dd108729-5445-4537-a3e2-e0d0e2d786fb
+This portfolio serves as a professional platform to highlight my academic journey, technical skills, project work, hackathon achievements, and career aspirations in Artificial Intelligence and Full-Stack Development.
 
-## Run Locally
+## ✨ Features
 
-**Prerequisites:**  Node.js
+- Modern and Responsive Design
+- Dark/Light Mode Support
+- Interactive User Interface
+- Project Showcase
+- Skills & Technologies Section
+- Achievements & Certifications
+- Contact Form
+- Resume Download
+- GitHub & LinkedIn Integration
+- Mobile-Friendly Layout
 
+## 🛠️ Tech Stack
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+### Frontend
+- React
+- TypeScript
+- Tailwind CSS
+
+### Backend
+- Python (FastAPI)
+
+### Database
+- MongoDB
+
+### Tools
+- Git
+- GitHub
+- VS Code
+
+## 📂 Projects Featured
+
+### 🌱 AI CropDoc
+AI-powered crop disease detection platform for farmers with disease prediction and treatment recommendations.
+
+### 📚 Online Library System
+Digital library management system for efficient book and user management.
+
+### 🎯 Placement Booster
+Platform designed to help students prepare for placements through learning resources and assessments.
+
+## 🏆 Achievements
+
+- 🥇 First Prize - 30-Hour Hackathon, SNS College of Technology
+- 🥇 First Prize - AI Web Craft Event, Hindustan College
+- 🥈 Second Prize - Online Library System Project Expo
+- 🎖 NPTEL Affective Computing - Elite + Silver (76%)
+
+## 📜 Certifications
+
+- NPTEL Affective Computing
+- AI & Machine Learning Workshop - IIT Madras
+- GDG Technical Workshop
+
+## 🎓 Education
+
+**B.E. Computer Science and Engineering**  
+Nandha College of Technology, Erode
+
+## 📬 Contact
+
+Feel free to connect with me for collaborations, internships, hackathons, or project discussions.
+
+## 🔗 Links
+
+- GitHub: https://github.com/yourusername
+- LinkedIn: https://linkedin.com/in/yourprofile
+
+---
+
+⭐ If you like this portfolio, don't forget to star the repository!
