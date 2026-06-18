@@ -48,13 +48,6 @@ Digital library management system for efficient book and user management.
 ### 🎯 Placement Booster
 Platform designed to help students prepare for placements through learning resources and assessments.
 
-## 🏆 Achievements
-
-- 🥇 First Prize - 30-Hour Hackathon, SNS College of Technology
-- 🥇 First Prize - AI Web Craft Event, Hindustan College
-- 🥈 Second Prize - Online Library System Project Expo
-- 🎖 NPTEL Affective Computing - Elite + Silver (76%)
-
 ## 📜 Certifications
 
 - NPTEL Affective Computing
