@@ -18,7 +18,7 @@ This portfolio serves as a professional platform to highlight my academic journe
 - Resume Download
 - GitHub & LinkedIn Integration
 - Mobile-Friendly Layout
-
+- 
 ## 🛠️ Tech Stack
 
 ### Frontend
